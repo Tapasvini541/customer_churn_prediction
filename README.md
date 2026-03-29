@@ -81,15 +81,6 @@ Logistic Regression achieved the highest accuracy, indicating that the dataset f
 
 ---
 
-## 🚀 Future Improvements
-
-* Use advanced models like Random Forest or XGBoost
-* Perform hyperparameter tuning
-* Add more features for better prediction
-* Evaluate using Precision, Recall, and F1-score
-
----
-
 ## 🛠️ Technologies Used
 
 * Python
