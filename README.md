@@ -71,7 +71,6 @@ This project aims to predict customer churn using machine learning techniques. T
 * Logistic Regression performed the best overall
 * Decision Tree showed moderate performance
 * Rule-based logic performed poorly due to lack of learning capability
-* SMOTE improved class balance but slightly reduced accuracy
 
 ---
 
