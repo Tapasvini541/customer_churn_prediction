@@ -12,7 +12,7 @@ This project aims to predict customer churn using machine learning techniques. T
 * Original dataset: Telco Customer Churn dataset
 * The dataset was preprocessed to include only the required features:
 
-  * Age
+  * Age (Synthetically generated)
   * Income
   * Purchases
   * Membership
