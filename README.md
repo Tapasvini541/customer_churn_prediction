@@ -104,12 +104,7 @@ Logistic Regression achieved the highest accuracy, indicating that the dataset f
 
 * Jupyter Notebook (.ipynb)
 * Cleaned Dataset (.csv)
-* Model Results
-* Visualizations
 * README File
 
 ---
 
-## 🎯 Author
-
-This project was developed as part of an academic assessment for Artificial Intelligence and Machine Learning.
